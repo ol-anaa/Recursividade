@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="464f0c5c-6bc9-4413-a97a-4a426cd0b3dd" name="Changes" comment="" />
+    <list default="true" id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Divisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeaterOrEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreaterThan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LessOrEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LessThan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Negativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NotEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Soma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hanoi.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="2DN9An0sS8hbRy7Ht2yUaboDtGR" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DN9Y8trMApugRiQGKpqZiGw13g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,18 +47,79 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/olive/IdeaProjects/Recursividade",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Subtracao">
+    <configuration name="NotEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotEquals" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Soma" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subtracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subtracao" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanoi" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isNegativo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isNegativo" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Subtracao" />
+        <item itemvalue="Application.Soma" />
+        <item itemvalue="Application.NotEquals" />
+        <item itemvalue="Application.isNegativo" />
+        <item itemvalue="Application.hanoi" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="464f0c5c-6bc9-4413-a97a-4a426cd0b3dd" name="Changes" comment="" />
-      <created>1660528537619</created>
+      <changelist id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="" />
+      <created>1660528722221</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660528537619</updated>
+      <updated>1660528722221</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
