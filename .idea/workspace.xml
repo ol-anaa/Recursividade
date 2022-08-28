@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeaterOrEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeaterOrEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreaterThan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreaterThan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LessThan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LessThan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NotEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NotEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isNegativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isNegativo.java" afterDir="false" />
-    </list>
+    <list default="true" id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
