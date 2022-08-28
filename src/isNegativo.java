@@ -1,9 +1,9 @@
 public class isNegativo {
-    public static boolean isNegativo (int X) {
-        return isNegativo (X,X);
+    public static boolean isNegativo (int X)  {
+        return X ==0 ? false : isNegativo (X,X);
     }
 
-    public static boolean isNegativo(int A, int D){
+    private static boolean isNegativo(int A, int D){
 
         if (A == 0)
             return true;
@@ -34,16 +34,14 @@ public class isNegativo {
 */
 
     public static void main(String[] args) {
-        try{
+
 //            System.out.println(idDiri(22));
 //            System.out.println(idDiri(5));
 //            System.out.println(inteiro(6));
 //            System.out.println(inteiro(-6));
-            System.out.println(isNegativo(-3));
-            System.out.println(isNegativo(3));
-        }
+            System.out.println(isNegativo(7));
+            System.out.println(isNegativo(-9));
 
-        catch (Exception e){}
     }
 
 }

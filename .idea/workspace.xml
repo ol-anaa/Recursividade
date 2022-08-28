@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Divisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeaterOrEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreaterThan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LessOrEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LessThan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multiplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Negativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hanoi.java" afterDir="false" />
-    </list>
+    <list default="true" id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,40 +31,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/olive/IdeaProjects/Recursividade",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/olive/OneDrive/Documentos/Recursividade&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Subtracao">
+}</component>
+  <component name="RunManager" selected="Application.LessThan">
+    <configuration name="GeaterOrEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeaterOrEqual" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreaterThan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreaterThan" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessThan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LessThan" />
+      <module name="Recursao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NotEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NotEquals" />
-      <module name="Recursao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Soma" />
-      <module name="Recursao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Subtracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Subtracao" />
-      <module name="Recursao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hanoi" />
       <module name="Recursao" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Subtracao" />
-        <item itemvalue="Application.Soma" />
-        <item itemvalue="Application.NotEquals" />
+        <item itemvalue="Application.LessThan" />
         <item itemvalue="Application.isNegativo" />
-        <item itemvalue="Application.hanoi" />
+        <item itemvalue="Application.GeaterOrEqual" />
+        <item itemvalue="Application.GreaterThan" />
+        <item itemvalue="Application.NotEquals" />
       </list>
     </recent_temporary>
   </component>
