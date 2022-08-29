@@ -1,7 +1,7 @@
 public class GreaterThan {
 
     public static boolean isGreaterThan (int x, int y)  {
-        if(isNegativo.isNegativo(x) || isNegativo.isNegativo(y))
+        if(Negativo.isNegativo(x) || Negativo.isNegativo(y))
             return x == 0 ? true :  y == 0 ? false : isGreaterThan(x+1, y+1);
 
         return x == 0 ? false :  y == 0 ? true : isGreaterThan(x-1,y-1);
