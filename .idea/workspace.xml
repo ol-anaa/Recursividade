@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="" />
+    <list default="true" id="badc14a6-e0d0-4f11-9a5a-b090c2833fe1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeaterOrEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeaterOrEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreaterThan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreaterThan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LessThan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LessThan.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LessThan">
+  <component name="RunManager" selected="Application.GeaterOrEqual">
     <configuration name="GeaterOrEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeaterOrEqual" />
       <module name="Recursao" />
@@ -79,10 +84,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LessThan" />
-        <item itemvalue="Application.isNegativo" />
         <item itemvalue="Application.GeaterOrEqual" />
         <item itemvalue="Application.GreaterThan" />
+        <item itemvalue="Application.LessThan" />
+        <item itemvalue="Application.isNegativo" />
         <item itemvalue="Application.NotEquals" />
       </list>
     </recent_temporary>
@@ -108,5 +113,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LessThan.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LessThan.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
