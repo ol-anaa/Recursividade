@@ -1,7 +1,7 @@
 public class NotEquals {
 
     private static boolean notEquals (int X, int Y){
-        if (isNegativo.isNegativo(X) || isNegativo.isNegativo(Y))
+        if (Negativo.isNegativo(X) || Negativo.isNegativo(Y))
             return X == 0 && Y == 0 ? false : X == 0 || Y == 0 ? true : notEquals(X+1, Y+1);
 
         return X == 0 && Y == 0 ? false : X == 0 || Y == 0 ? true : notEquals(X-1,Y-1);

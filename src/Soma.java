@@ -2,7 +2,7 @@ public class Soma {
     private static int soma (int A, int D){
         int Aux = A;
 
-        if ((!isNegativo.isNegativo(A)) && (isNegativo.isNegativo(D))){
+        if ((!Negativo.isNegativo(A)) && (Negativo.isNegativo(D))){
             A= D;
             D = Aux;
         }
